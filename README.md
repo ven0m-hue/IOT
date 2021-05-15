@@ -3,7 +3,7 @@ Internet of things with the ESP8266 SoC.
 All of these have been implemented using Arduino IDE (not very proud of it :\)
 
 1. OTA (Over the air) internet via AWS web hosting.
-2. --> This firmware(the code) to be updated is hosted over a server, aws in this case.
+--> This firmware(the code) to be updated is hosted over a server, aws in this case.
 --> Checks for the frimware update every specified unit of time. 
 --> However there is no check for a secure transmission of the data through the server. I'm talking about the security certificates (This has not been implemented). 
  
