@@ -1,6 +1,6 @@
 # IOT
 Internet of things with the ESP8266 SoC. 
-All these have been implemented using Arduino IDE (not very proud of it :\)
+All of these have been implemented using Arduino IDE (not very proud of it :\)
 
 1. OTA (Over the air) internet via AWS web hosting. 
 --> This firmware(the code) to be updated is hosted over a server, aws in this case.
