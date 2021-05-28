@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char* ssid = "NODE_SERVER";
-const char* pswd = "ESPESP8266";
+const char* ssid = "SSID";      // SSID
+const char* pswd = "********";  // password
 //
 IPAddress Client_IP(192, 168, 4, 2);
 IPAddress Server_IP(192, 168, 4, 1); // By default
